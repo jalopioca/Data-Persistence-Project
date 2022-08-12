@@ -892,7 +892,6 @@ MonoBehaviour:
   SpacebarText: {fileID: 98860957}
   initialForce: 8
   tilesAbove: 0
-  menuController: {fileID: 0}
   upwardBarrier: {fileID: 497660312}
   upwardCamera: {fileID: 1273318419}
   downwardBarrier: {fileID: 397567711}
@@ -1896,13 +1895,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1273318419}
-  m_LocalRotation: {x: 0.09554392, y: -0.0038847593, z: -0.00037125067, w: -0.9954176}
-  m_LocalPosition: {x: 10, y: 12.9950285, z: -13.243462}
+  m_LocalRotation: {x: 0.094107606, y: 0.00388345, z: -0.00036709412, w: 0.9955544}
+  m_LocalPosition: {x: 10, y: 16.37, z: -14.34}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 61.18, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 10.8, y: 0.447, z: 0}
 --- !u!1 &1288645155
 GameObject:
   m_ObjectHideFlags: 0
